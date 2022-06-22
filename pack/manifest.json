@@ -3,7 +3,7 @@
     "header": {
         "description": "Example vanilla behavior pack",
         "name": "Vanilla Behavior Pack",
-        "uuid": "ee649bcf-256c-4013-9068-6a802b89d756",
+        "uuid": "e94e2dd6-d12f-4a3b-998c-726ef0e42657",
         "version": [ 0, 0, 1 ],
         "min_engine_version": [ 1, 19, 0 ]
     },
@@ -11,14 +11,14 @@
         {
             "description": "Example vanilla behavior pack",
             "type": "data",
-            "uuid": "fa6e90c8-c925-460f-8155-c8a60b753caa",
+            "uuid": "f11fdf28-3cda-41bc-bcf0-b4655903199c",
             "version": [0, 0, 1]
         }
-    ],
+    ]/*,
     "dependencies": [
         {
-            "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
+            "uuid": "8b5c84fb-9686-4c70-8313-a74f18d56eeb",
             "version": [0, 0, 1]
         }
-    ]
+    ]*/
 }
