@@ -14,5 +14,15 @@
             "uuid": "84267fe0-390f-4abc-b343-d7cd7447b4b5",
             "version": [0, 0, 1]
         }
-    ]
+    ],
+    "metadata": {
+        "authors": [
+            "GhostKiller7724",
+            "GhostKiller35431",
+            "ZakGhost354313",
+            "Ghost35431"
+        ],
+        "license": "MIT",
+        "url": "https://zakghost354313.github.io/mcpack-bp/"
+    }
 }
