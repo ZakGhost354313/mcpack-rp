@@ -5,7 +5,7 @@ from time import sleep
 
 def build():
     os.system('zip -r pack.zip pack')
-    os.system('mv pack.zip wp_BP.mcpack')
+    os.system('mv pack.zip wp_RP.mcpack')
 
 def main():
     a = input('you sure(y/n)?  ') 
