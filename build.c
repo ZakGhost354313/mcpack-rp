@@ -1312,7 +1312,7 @@ static const char __pyx_k_build_py[] = "build.py";
 static const char __pyx_k_you_sure_y_n[] = "you sure(y/n)?  ";
 static const char __pyx_k_cline_in_traceback[] = "cline_in_traceback";
 static const char __pyx_k_zip_r_pack_zip_pack[] = "zip -r pack.zip pack";
-static const char __pyx_k_mv_pack_zip_wp_BP_mcpack[] = "mv pack.zip wp_BP.mcpack";
+static const char __pyx_k_mv_pack_zip_wp_BP_mcpack[] = "mv pack.zip wp_RP.mcpack";
 static PyObject *__pyx_n_s_a;
 static PyObject *__pyx_n_s_build;
 static PyObject *__pyx_kp_s_build_py;

@@ -1,24 +1,18 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Example vanilla behavior pack",
-        "name": "Vanilla Behavior Pack",
-        "uuid": "e94e2dd6-d12f-4a3b-998c-726ef0e42657",
-        "version": [ 0, 0, 1 ],
+        "description": "Example vanilla resource pack",
+        "name": "Vanilla Resource Pack",
+        "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
+        "version": [0, 0, 1],
         "min_engine_version": [ 1, 19, 0 ]
     },
     "modules": [
         {
-            "description": "Example vanilla behavior pack",
-            "type": "data",
-            "uuid": "f11fdf28-3cda-41bc-bcf0-b4655903199c",
+            "description": "Example vanilla resource pack",
+            "type": "resources",
+            "uuid": "743f6949-53be-44b6-b326-398005028819",
             "version": [0, 0, 1]
         }
-    ]/*,
-    "dependencies": [
-        {
-            "uuid": "8b5c84fb-9686-4c70-8313-a74f18d56eeb",
-            "version": [0, 0, 1]
-        }
-    ]*/
+    ]
 }

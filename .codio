@@ -5,9 +5,9 @@
   "commands": {
         "python3": "ws && python3 {{filepath}}",
         "python2": "ws && python2 {{filepath}}",
-        "build mcpack": "ws && ./build"/*,
+        "build mcpack": "ws && ./build",
         "python to C": "ws && cython {{filepath}} --embed",
-        "compile cython": "ws && gcc -Os $(python3-config --includes) {{filename_no_ext}}.c -o {{filename_no_ext}} $(python3-config --ldflags) -l$PYTHONLIBVER"*/
+        "compile cython": "ws && gcc -Os $(python3-config --includes) {{filename_no_ext}}.c -o {{filename_no_ext}} $(python3-config --ldflags) -l$PYTHONLIBVER"
   },
 
 // Preview button configuration
